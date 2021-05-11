@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  CD:
+  build:
     runs-on: ubuntu-latest
 
     steps:
